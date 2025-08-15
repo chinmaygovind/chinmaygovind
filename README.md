@@ -39,7 +39,5 @@
 - **LinkedIn:** [linkedin.com/in/chinmaygovind](https://www.linkedin.com/in/chinmaygovind/)  
 - **GitHub:** you are here
 
----
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
