@@ -1,7 +1,7 @@
 # hi! i'm chinmay
 
 🎓 **Sophomore @ University of Pennsylvania** — Majoring in **Artificial Intelligence + Computer Engineering**  
-💡 **Interests:** Machine Learning, Cryptography, Cybersecurity, Computer Vision
+💡 **Interests:** Machine Learning, Cryptography, Cybersecurity, Computer Vision  
 💼 **Current Roles:**  
 - Machine Learning Researcher @ [SAS Whales Group](https://scientificinnov.com/) — applying ML to marine data analysis  
 - Teaching Assistant @ CIS 1600 [https://www.cis.upenn.edu/~cis1600/current/]-  Discrete Math  
