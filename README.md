@@ -32,11 +32,12 @@
 
 **Tools & Frameworks:**  
 `React` `Flask` `Spring Boot` `Django` `AWS` `GCP` `TensorFlow` `Git`  
+
 ---
 
 ## 📫 Connect With Me
 - **LinkedIn:** [linkedin.com/in/chinmaygovind](https://www.linkedin.com/in/chinmaygovind/)  
-- **GitHub:** You're already here 😊  
+- **GitHub:** you are here
 
 ---
 
