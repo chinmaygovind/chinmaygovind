@@ -1,4 +1,4 @@
-# hi! how are you?
+# hi! i'm chinmay
 
 🎓 **Sophomore @ University of Pennsylvania** — Majoring in **Artificial Intelligence + Computer Engineering**  
 💡 **Interests:** Machine Learning, Cryptography, Cybersecurity, Computer Vision
