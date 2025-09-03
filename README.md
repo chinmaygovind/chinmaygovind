@@ -1,4 +1,5 @@
 # hi! i'm chinmay
+Portfolio: https://chinmaygovind.github.io
 
 🎓 **Sophomore @ University of Pennsylvania** — Majoring in **Artificial Intelligence + Computer Engineering**  
 💡 **Interests:** Machine Learning, Cryptography, Cybersecurity, Computer Vision  
