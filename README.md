@@ -1,23 +1,23 @@
 # hi! i'm chinmay
 Portfolio: https://chinmaygovind.github.io
 
-🎓 **Sophomore @ University of Pennsylvania** — Majoring in **Artificial Intelligence + Computer Engineering**  
-💡 **Interests:** Machine Learning, Cryptography, Cybersecurity, Computer Vision  
-💼 **Current Roles:**  
+**Sophomore @ University of Pennsylvania**, dual major in **Artificial Intelligence + Computer Engineering**  
+**Interests:** Machine Learning, Cryptography, Cybersecurity, Computer Vision  
+**Current Roles:**  
 - Machine Learning Researcher @ [SAS Whales Group](https://scientificinnov.com/) — applying ML to marine data analysis  
 - Teaching Assistant @ [CIS 1600](https://www.cis.upenn.edu/~cis1600/current/)-  Discrete Math  
 - Electrical Software Developer @ [Penn Electric Racing](https://www.pennelectricracing.com/) — Embedded systems & Rust-based data infrastructure  
 
 ---
 
-## 🚀 What I’m Working On
+## What I’m Working On
 - Machine learning for marine biology research  
 - Data servers and embedded software for Formula SAE  
 - AI-powered automation tools  
 
 ---
 
-## 📌 Featured Projects
+## Projects
 | Project | Description | Tech |
 | --- | --- | --- |
 | [**Project-Euler**](https://github.com/chinmaygovind/Project-Euler) | Collection of my Project Euler solutions and utilities, featuring hundreds of math puzzles and useful numeric utility classes. | Java |
